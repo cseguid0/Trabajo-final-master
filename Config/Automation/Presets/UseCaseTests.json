@@ -1,0 +1,28 @@
+{
+	"id": "UseCaseTests",
+	"name": "UseCaseTests",
+	"enabledTests": [
+		"Project.Functional Tests.Tests.TestWorld.FT_AbilityCheck",
+		"Project.Functional Tests.Tests.TestWorld.FT_AdvanceTalk",
+		"Project.Functional Tests.Tests.TestWorld.FT_BuyItem",
+		"Project.Functional Tests.Tests.TestWorld.FT_CharacterCreation",
+		"Project.Functional Tests.Tests.TestWorld.FT_CharacterInteraction",
+		"Project.Functional Tests.Tests.TestWorld.FT_DoAction",
+		"Project.Functional Tests.Tests.TestWorld.FT_DropItem",
+		"Project.Functional Tests.Tests.TestWorld.FT_EndCombat",
+		"Project.Functional Tests.Tests.TestWorld.FT_EquipItem",
+		"Project.Functional Tests.Tests.TestWorld.FT_KillCharacter",
+		"Project.Functional Tests.Tests.TestWorld.FT_LevelUp",
+		"Project.Functional Tests.Tests.TestWorld.FT_MakeTurn",
+		"Project.Functional Tests.Tests.TestWorld.FT_MoveCharacter",
+		"Project.Functional Tests.Tests.TestWorld.FT_MoveItem",
+		"Project.Functional Tests.Tests.TestWorld.FT_Passives",
+		"Project.Functional Tests.Tests.TestWorld.FT_PickItem",
+		"Project.Functional Tests.Tests.TestWorld.FT_Quests",
+		"Project.Functional Tests.Tests.TestWorld.FT_RemoveItem",
+		"Project.Functional Tests.Tests.TestWorld.FT_Rest",
+		"Project.Functional Tests.Tests.TestWorld.FT_SaveGame",
+		"Project.Functional Tests.Tests.TestWorld.FT_SellItem",
+		"Project.Functional Tests.Tests.TestWorld.FT_StartCombat"
+	]
+}
