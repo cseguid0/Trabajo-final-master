@@ -75,4 +75,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Media and visual files
-Content/Media/*
+#Content/Media/*
